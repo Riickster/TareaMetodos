@@ -1,0 +1,18 @@
+program ejemplo1;
+
+abc : int ;
+hola , hola : int ;
+hola : int ;
+
+a=10 ;
+b = 20 ;
+c*a+b ;
+
+=
+
+e = 10.22 ;
+f = 0.79 ;
+g = e + f ;
+
+write e + g ;
+read abc ;

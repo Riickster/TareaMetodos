@@ -1,0 +1,22 @@
+.Keyword{
+    color: blue;
+    font-weight: bold;
+}
+.id{
+    color: black;
+}
+.const{
+    color: magenta;
+}
+.op{
+    color: red;
+}
+.syntaxError{
+    color: slategrey;
+    text-decoration: underline;
+    text-decoration-color: red;
+}
+.com{
+    color: green;
+    font-style: italic;
+}
